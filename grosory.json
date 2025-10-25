@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "price": 0.5,
+    "category": "Fruit",
+    "img": "./images/apple.jpg"
+  },
+  {
+    
+  }
+]
+
