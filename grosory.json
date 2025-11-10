@@ -2,35 +2,35 @@
   {
     "id": 1,
     "name": "Tomato",
-    "price": 0.5,
+    "price": 4,
     "category": "Fruit",
     "img": "https://i.pinimg.com/736x/e8/50/77/e8507768a7058939fd5fe3966ae7fbce.jpg"
   },
   {
     "id": 2,
     "name": "Potato",
-    "price": 0.3,
+    "price": 2,
     "category": "Vegetable",
     "img": "https://i.pinimg.com/736x/39/4b/d4/394bd4f87b5944d1e612c59f797aeff1.jpg"
   },
   {
     "id": 3,
     "name": "Carrot",
-    "price": 0.4,
+    "price": 1,
     "category": "Vegetable",
     "img": "https://i.pinimg.com/736x/61/0a/e3/610ae309a94a1ad3f8fd51d8a7cd7d1d.jpg"
   },
   {
     "id": 4,
     "name": "Apple",
-    "price": 0.6,
+    "price": 1,
     "category": "Fruit",
     "img": "https://i.pinimg.com/736x/70/d9/b4/70d9b44ca5dbc504b9f04a9769b88b2c.jpg"
   },
   {
     "id": 5,
     "name": "Banana",
-    "price": 0.2,
+    "price": 2,
     "category": "Fruit",
     "img": "https://i.pinimg.com/1200x/42/d7/2a/42d72a0bf2973fcf5d3bc5f5556e882a.jpg"
   },
@@ -44,28 +44,28 @@
   {
     "id": 7,
     "name": "Cabbage",
-    "price": 0.8,
+    "price": 1,
     "category": "Vegetable",
     "img": "https://i.pinimg.com/736x/72/72/4c/72724c39cbb94cb1264dc09692cb690d.jpg"
   },
   {
     "id": 8,
     "name": "Lettuce",
-    "price": 0.7,
+    "price": 1,
     "category": "Vegetable",
     "img": "https://i.pinimg.com/736x/1a/3d/72/1a3d727f73e22e7465a6b7e76f22008d.jpg"
   },
   {
     "id": 9,
     "name": "Cucumber",
-    "price": 0.4,
+    "price": 1,
     "category": "Vegetable",
     "img": "https://i.pinimg.com/1200x/42/2d/cc/422dcc2744c313ff8f5a0c1ed9ebeecb.jpg"
   },
   {
     "id": 10,
     "name": "Onion",
-    "price": 0.3,
+    "price": 3,
     "category": "Vegetable",
     "img": "https://i.pinimg.com/736x/c9/dd/e2/c9dde2fd14055d9a8db262a33f5c1d81.jpg"
   },
@@ -73,77 +73,77 @@
   {
     "id": 11,
     "name": "Checken Meat",
-    "price": 0.3,
+    "price": 7,
     "category": "Meat",
     "img": "https://i.pinimg.com/736x/13/c0/8e/13c08e3e3cf1fdb301b726c0924670b1.jpg"
   },
   {
     "id": 12,
     "name": "Checken Wings",
-    "price": 0.3,
+    "price": 7,
     "category": "Meat",
     "img": "https://i.pinimg.com/736x/54/fc/3b/54fc3b07632c4c607d9e0f3260992fec.jpg"
   },
   {
     "id": 13,
     "name": "Checken Egg",
-    "price": 0.3,
+    "price": 5,
     "category": " Meat",
     "img": "https://i.pinimg.com/736x/38/b1/7c/38b17c9a2b8104e83f96f9e46a7f88f5.jpg"
   },
   {
     "id": 14,
     "name": "Samon Meat",
-    "price": 0.3,
+    "price": 9,
     "category": "Meat",
     "img": "https://i.pinimg.com/1200x/ec/6f/23/ec6f2358ee9a5772fa323f5c35743a11.jpg"
   },
   {
     "id": 15,
     "name": "Fresh Shrimp",
-    "price": 0.3,
+    "price": 7,
     "category": "Meat",
     "img": "https://i.pinimg.com/1200x/bc/25/0f/bc250fc3064ba688b2eb4da9bff57ca7.jpg"
   },
   {
     "id": 16,
     "name": "Kerapu Merah Fres",
-    "price": 0.3,
+    "price": 4,
     "category": "Meat",
     "img": "https://i.pinimg.com/736x/c9/bc/49/c9bc49a0d2d5b6a0209a6b82a4705f05.jpg"
   },
   {
     "id": 17,
     "name": "Raw Checken Meat",
-    "price": 0.3,
+    "price": 5,
     "category": "Meat",
     "img": "https://i.pinimg.com/736x/c2/5d/48/c25d4866103c6f9bbf152cad7d61396c.jpg"
   },
   {
     "id": 18,
     "name": "Coca Cola",
-    "price": 0.3,
+    "price": 3,
     "category": "Drink",
     "img": "https://i.pinimg.com/736x/8a/10/00/8a100000f40a519cd068c7549f792f54.jpg"
   },
   {
     "id": 19,
     "name": "Fanta",
-    "price": 0.3,
+    "price": 2,
     "category": "Drink",
     "img": "https://i.pinimg.com/1200x/6f/64/68/6f64681ee2abcb2231d742954c519590.jpg"
   },
   {
     "id": 20,
     "name": "Sprite",
-    "price": 0.3,
+    "price": 1,
     "category": "Drink",
     "img": "https://i.pinimg.com/1200x/70/07/09/7007094cf70b3d7fd411c49aa66aff26.jpg"
   },
   {
     "id": 21,
     "name": "Pepsi",
-    "price": 0.3,
+    "price": 1,
     "category": "Drink",
     "img": "https://i.pinimg.com/736x/81/10/8e/81108ede0fac198b78850fea88a05061.jpg"
   },
@@ -367,21 +367,21 @@
   {
     "id": 53,
     "name": "Red Chili",
-    "price": 0.5,
+    "price": 1,
     "category": "Vegetable",
     "img": "https://i.pinimg.com/1200x/d1/dd/f0/d1ddf0f28e480c5e56171b72ace68dcc.jpg"
   },
   {
     "id": 54,
     "name": "Garlic",
-    "price": 0.4,
+    "price": 2,
     "category": "Vegetable",
     "img": "https://i.pinimg.com/1200x/d7/22/a6/d722a61b8932890e58df925b4b148381.jpg"
   },
   {
     "id": 55,
     "name": "Ginger",
-    "price": 0.6,
+    "price": 1,
     "category": "Vegetable",
     "img": "https://i.pinimg.com/736x/ee/ac/e9/eeace9204b5a700a415831033c047207.jpg"
   },
@@ -416,7 +416,7 @@
   {
     "id": 60,
     "name": "Spinach",
-    "price": 0.8,
+    "price": 1,
     "category": "Vegetable",
     "img": "https://i.pinimg.com/1200x/d2/66/f1/d266f1e697b540d0a9a694565cbe4696.jpg"
   },
@@ -699,5 +699,12 @@
     "price": 1,
     "category": "Meat",
     "img": "https://i.pinimg.com/736x/2b/14/08/2b14085f8cb79c1b30da0b0a59e13dbb.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Tilapia Fish",
+    "price": 1,
+    "category": "Meat",
+    "img": "https://i.pinimg.com/1200x/a6/11/35/a611350a8d3832121e3e836bb3471f86.jpg"
   }
 ]
