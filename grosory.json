@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Tomato",
-    "price": 4,
+    "price": 1,
     "category": "Fruit",
     "img": "https://i.pinimg.com/736x/e8/50/77/e8507768a7058939fd5fe3966ae7fbce.jpg"
   },
@@ -243,7 +243,7 @@
     "name": "Khmer Salt",
     "price": 1,
     "category": "Ingredient",
-    "img": "https://www.kampot-cambodia.com/images/2019m/kampot-salt-museum-2.JPG"
+    "img": "https://khuonviseth.wordpress.com/wp-content/uploads/2016/11/img_20161127_115743.jpg"
   },
   {
     "id": 36,
@@ -257,7 +257,7 @@
     "name": "Raw Apple Vinegar",
     "price": 3,
     "category": "Ingredient",
-    "img": "https://i.pinimg.com/736x/0e/75/2c/0e752c49b94199787b6c1f6499b111ef.jpg`"
+    "img": "https://i.pinimg.com/736x/0e/75/2c/0e752c49b94199787b6c1f6499b111ef.jpg"
   },
   {
     "id": 38,
