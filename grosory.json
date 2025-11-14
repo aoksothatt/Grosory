@@ -69,7 +69,6 @@
     "category": "Vegetable",
     "img": "https://i.pinimg.com/736x/c9/dd/e2/c9dde2fd14055d9a8db262a33f5c1d81.jpg"
   },
-
   {
     "id": 11,
     "name": "Checken Meat",
@@ -107,7 +106,7 @@
   },
   {
     "id": 16,
-    "name": "Kerapu Merah Fres",
+    "name": "Kerapu Merah Fresh",
     "price": 4,
     "category": "Meat",
     "img": "https://i.pinimg.com/736x/c9/bc/49/c9bc49a0d2d5b6a0209a6b82a4705f05.jpg"
@@ -163,7 +162,7 @@
   },
   {
     "id": 24,
-    "name": "Kupuchea Beer",
+    "name": "Kampuchea Beer",
     "price": 1,
     "category": "Drink",
     "img": "https://i.pinimg.com/736x/c4/97/d2/c497d23ae29ba5df9d8347c90eed8f07.jpg"
@@ -797,5 +796,271 @@
     "price": 2,
     "category": "Fruit",
     "img": "https://images.everydayhealth.com/images/diet-nutrition/dragon-fruit-101-1440x810.jpg?sfvrsn=3bd52a80_3"
+  },
+  {
+    "id": 117,
+    "name": "Guava",
+    "price": 2,
+    "category": "Fruit",
+    "img": "https://tse3.mm.bing.net/th/id/OIP.veuJftghwFhQP487poLEtgHaEy?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 118,
+    "name": "Sugar Apple",
+    "price": 2,
+    "category": "Fruit",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.4OHbbL9GnMag17kHxv2TGAHaE_?cb=ucfimg2ucfimg=1&w=626&h=422&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 119,
+    "name": "Kumquat",
+    "price": 2,
+    "category": "Fruit",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kumquat_from_Spain.jpg/500px-Kumquat_from_Spain.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Granny Smith Apple",
+    "price": 2,
+    "category": "Fruit",
+    "img": "https://tse4.mm.bing.net/th/id/OIP.OKHhAOXta6gL9gP9qAhyGQHaFR?cb=ucfimg2ucfimg=1&w=2000&h=1426&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 121,
+    "name": "Starfruit",
+    "price": 0.75,
+    "category": "Fruit",
+    "img": "https://cdn.ecommercedns.uk/files/3/240993/7/12568097/star-fruit.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Green Anjou peer",
+    "price": 2,
+    "category": "Fruit",
+    "img": "https://www.thespruceeats.com/thmb/etC9NiGt7wOD29U_OYMAyCtz5bY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SeckelPears-58a48c405f9b58819cc32856.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Satsuma",
+    "price": 2,
+    "category": "Fruit",
+    "img": "https://assets.tops.co.th/NONE-AUSMurcott-0217256000009-1?$JPEG$"
+  },
+  {
+    "id": 124,
+    "name": "Pomegranate",
+    "price": 2,
+    "category": "Fruit",
+    "img": "https://th.bing.com/th/id/R.5bdeb19f0a0615e9ed2893fd41d31f82?rik=DEils8TDj77gBA&riu=http%3a%2f%2fwww.plantgrower.org%2fuploads%2f6%2f5%2f5%2f4%2f65545169%2fpomegranate11_orig.jpg&ehk=fgCT98%2f37pL03RCeo3%2fQC0HGc0FsAmcR9Aoniyl50E8%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 125,
+    "name": "Plum",
+    "price": 2,
+    "category": "Fruit",
+    "img": "https://tse2.mm.bing.net/th/id/OIP.tujSw0vWP--vfK1Cud2iMwHaFE?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 126,
+    "name": "Apricots",
+    "price": 2,
+    "category": "Fruit",
+    "img": "https://i.pinimg.com/originals/e1/12/36/e11236970390d1815f65eda8ccf904af.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Baccon",
+    "price": 2,
+    "category": "Meat",
+    "img": "https://yeyfood.com/wp-content/uploads/2023/12/bacon2.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Leg of Lamb",
+    "price": 2,
+    "category": "Meat",
+    "img": "https://tse3.mm.bing.net/th/id/OIP.xcXaciDUWVBY87ms8A1wzgHaGr?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 129,
+    "name": "Pork Belly",
+    "price": 2,
+    "category": "Meat",
+    "img": "https://down-sg.img.susercontent.com/file/234be2b4980a6b3294b3720f948ca585"
+  },
+  {
+    "id": 130,
+    "name": "SALAMI",
+    "price": 2,
+    "category": "Meat",
+    "img": "https://th.bing.com/th/id/R.b979bb631bd2c52a3773909912bfd407?rik=9f%2f%2bMyosV8y0sw&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 131,
+    "name": "Suasages",
+    "price": 1,
+    "category": "Meat",
+    "img": "https://i.pinimg.com/originals/50/f9/27/50f927f5de59250f4f92b9f7a3445311.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Bison meat",
+    "price":13,
+    "category": "Meat",
+    "img": "https://cdn.shopify.com/s/files/1/0099/9252/products/wagyu-ribeye-1_1024x1024.jpg?v=1636573669"
+  },
+  {
+    "id": 133,
+    "name": "Goose meat",
+    "price": 18,
+    "category": "Meat",
+    "img": "https://th.bing.com/th/id/R.8aa2a2ba83f2a9e16241b94078d55f72?rik=O28SKYIpunEFDQ&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 134,
+    "name": "Lopster",
+    "price": 50,
+    "category": "Meat",
+    "img": "https://drcollinfish.co.uk/wp-content/uploads/2021/05/23-scaled.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Oyster",
+    "price": 1,
+    "category": "Meat",
+    "img": "https://www.centfoodgroup.com/cdn/shop/products/1138301_FOXLEY_RIVER.jpg?height=430&v=1668609115"
+  },
+  {
+    "id": 136,
+    "name": "Baffalo meat",
+    "price": 6,
+    "category": "Meat",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.LLdHaMW04PfVP9acgd0NXgHaE8?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 137,
+    "name": "Squash",
+    "price": 3,
+    "category": "Vegetable",
+    "img": "https://images.squarespace-cdn.com/content/v1/6541874d1e536d4a5a63bc9e/e9aa31ce-e6bd-46fd-b500-d1a94017acad/Bostock-Squash-Product-013.jpg"
+  },
+  {
+    "id": 138,
+    "name": "Taro",
+    "price": 2,
+    "category": "Vegetable",
+    "img": "https://tse4.mm.bing.net/th/id/OIP.RUdflOOz-_b4BebfB-QNKAHaEK?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 139,
+    "name": "Pumkin",
+    "price": 2,
+    "category": "Vegetable",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.V9xQt6ujgnm8-HmAskk2JwHaJk?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 140,
+    "name": "Pea",
+    "price": 2,
+    "category": "Vegetable",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.6y-T_bSPFrC30HdZ09ucwwHaFj?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 141,
+    "name": "Radicchio",
+    "price": 2,
+    "category": "Vegetable",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.PaIkODBIyNzXF47f4zG-nQHaHa?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 142,
+    "name": "Bitter guard",
+    "price": 2,
+    "category": "Vegetable",
+    "img": "https://tse4.mm.bing.net/th/id/OIP.qZ5aNjZ0lcpgfTTQwqTOuAHaHa?cb=ucfimg2ucfimg=1&w=600&h=600&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 143,
+    "name": "Celery",
+    "price": 2,
+    "category": "Vegetable",
+    "img": "https://tse3.mm.bing.net/th/id/OIP.hYYyFFYN9LahtUxdbvumZAAAAA?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 144,
+    "name": "Bok Choy",
+    "price": 2,
+    "category": "Vegetable",
+    "img": "https://tse2.mm.bing.net/th/id/OIP.eO8wRiJVrA1GonDh3AWe_gHaFj?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 145,
+    "name": "Green Beans",
+    "price": 2,
+    "category": "Vegetable",
+    "img": "https://tse2.mm.bing.net/th/id/OIP.Hy534unSvZ6zfPKjxxTGfwHaFj?cb=ucfimg2ucfimg=1&w=1024&h=768&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 146,
+    "name": "Beet",
+    "price": 2,
+    "category": "Vegetable",
+    "img": "https://www.healthbenefitstimes.com/9/gallery/beetroot-1/Beetroot-full-plant.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Rolls",
+    "price":2,
+    "category": "Snack & Bread",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.xfbiWkaTy6uI7AZ2z9bFzAHaGw?cb=ucfimg2ucfimg=1&w=1600&h=1459&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 148,
+    "name": "Hamburger Bun",
+    "price": 2,
+    "category": "Snack & Bread",
+    "img": "https://drryor7280ntb.cloudfront.net/media/catalog/product/0/0/00075361012252.jpg?quality=85&fit=bounds&height=265&width=265"
+  },
+  {
+    "id": 149,
+    "name": "Prezels",
+    "price": 2,
+    "category": "Snack & Bread",
+    "img": "https://tse4.mm.bing.net/th/id/OIP.Y9J7SdMhViLhZ2jqDmnOYQHaHa?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 150,
+    "name": "White bread",
+    "price": 2,
+    "category": "Snack & Bread",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.UAXPzOtsEQlIuQSN-Qwi_QAAAA?cb=ucfimg2ucfimg=1&w=474&h=400&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 151,
+    "name": "Hot dog bun",
+    "price": 2,
+    "category": "Snack & Bread",
+    "img": "https://i5.walmartimages.com/seo/Euroclassic-Sliced-Hot-Dog-Brioche-Bun-1-58-Ounce-6-per-case_d2260b6c-c375-4941-a7a3-3d9a0eeae128.fc9e96e3f583915f0076ce9b6fd5a559.jpeg"
+  },
+  {
+    "id": 152,
+    "name": "Breadsticks",
+    "price": 2,
+    "category": "Snack & Bread",
+    "img": "https://i5.walmartimages.com/seo/Rotellas-Large-Coney-Bread-Bun-2-88-Ounce-6-per-pack-6-packs-per-case_21a7fa7c-008d-4443-99e5-4bbc8a5280ea.3021e0ff24a8a26b0966242e92ffc8d6.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+  },
+  {
+    "id": 153,
+    "name": "Baguette",
+    "price": 2,
+    "category": "Snack & Bread",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.Gw5ZJsmRzJi2hZ3Y2W-leQAAAA?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 154,
+    "name": "Rye bread",
+    "price": 2,
+    "category": "Snack & Bread",
+    "img": "https://i.pinimg.com/originals/cd/14/6d/cd146dbf048c75a300ca158ea7361ca8.jpg"
   }
 ]
